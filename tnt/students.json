@@ -1,0 +1,49 @@
+{
+	"students": [
+    {
+			"firstname": "Megan",
+			"lastname": "Norman",
+			"birthdate": "02/01/2007",
+			"age": 11,
+			"dmtlevel": 5,
+			"tramplevel": 5,
+			"tumblinglevel": 4
+		},
+		{
+			"firstname": "Kiya",
+			"lastname": "John",
+			"birthdate": "09/24/2005",
+			"age": 12,
+			"dmtlevel": 6,
+			"tramplevel": 6,
+			"tumblinglevel": 5
+		},
+		{
+			"firstname": "Skylar",
+			"lastname": "Hager",
+			"birthdate": "01/19/2002",
+			"age": 16,
+			"dmtlevel": 9,
+			"tramplevel": 9,
+			"tumblinglevel": 7
+		},
+		{
+			"firstname": "Jenna",
+			"lastname": "Rocha",
+			"birthdate": "12/09/2003",
+			"age": 14,
+			"dmtlevel": 5,
+			"tramplevel": 4,
+			"tumblinglevel": 4
+		},
+		{
+			"firstname": "Mia",
+			"lastname": "Denizard",
+			"birthdate": "08/01/2010",
+			"age": 7,
+			"dmtlevel": 4,
+			"tramplevel": 4,
+			"tumblinglevel": 5
+		}
+	]
+}

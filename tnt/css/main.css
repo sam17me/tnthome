@@ -1,0 +1,35 @@
+#content_main{
+  display:block;
+  align-items: center;
+  width:auto;
+  height:auto;
+  margin:inherit
+
+}
+th {
+  padding: 0px 10px 0px 10px ;
+  background-color:rgb(255,255,128);
+  border:1px solid;
+}
+tbody td {
+  border:1px solid;
+  text-align: center;
+}
+
+#searchfield{
+  position: relative;
+  top: 10px;
+  left:20%;
+}
+
+#content_2{
+
+  position:relative;
+  top:10px;
+  left:10%;
+  width:200px;
+  height:250px;
+  display:block;
+  border:1px solid;
+  
+}
